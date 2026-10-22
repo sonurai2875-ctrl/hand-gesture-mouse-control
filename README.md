@@ -38,9 +38,9 @@ Press q on the webcam window to exit the application.
 
 Controls
 
-- Index finger → Move cursor
-- Thumb + index finger pinch → Click
-- Two quick pinches → Double click
-- Open hand → Scroll mode
-- Hand position → Scroll up/down
-- Press `Q` → Exit
+- Index finger →  Move cursor
+- Thumb + index finger pinch →  Click
+- Two quick pinches →  Double click
+- Open hand →  Scroll mode
+- Hand position →  Scroll up/down
+- Press `Q`  → Exit
